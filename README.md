@@ -1,51 +1,25 @@
 # 📚 Paper Reviews — Hyunoh Kang
 
 A collection of papers I've read and presented, with slides.
-Research interests: test-time adaptation · visual state space models · efficient deep learning · multimodal learning.
-
-> 💡 Slides are exported as **PDF** so they preview directly in the browser. Click a title in the **Slides** column to open it.
 
 ---
 
 ## Index
 
-<!-- 새 줄을 위에 추가하면 최신 발표가 맨 위로 옵니다. 날짜는 YYYY-MM 형식 권장. -->
-
 | Date | Paper | Venue / Year | Topic | Slides |
 |------|-------|--------------|-------|--------|
-| 2025-06 | *(예시) Example Paper Title* | ICLR 2024 | Test-Time Adaptation | [Slides](slides/2025-06_example.pdf) |
-| 2025-03 | *(예시) Another Paper Title* | CVPR 2023 | Visual State Space Models | [Slides](slides/2025-03_example.pdf) |
-
-<!--
-표 한 줄 양식 (복사해서 사용):
-| 2025-07 | [논문 제목](논문 원문 링크) | NeurIPS 2024 | 주제 태그 | [Slides](slides/2025-07_short-title.pdf) |
--->
-
----
-
-## By Topic *(선택 — 논문이 많아지면 주제별로 묶어도 좋아요)*
-
-### Test-Time Adaptation
-- *(예시)* Example Paper — [Slides](slides/2025-06_example.pdf)
-
-### Visual State Space Models
-- *(예시)* Another Paper — [Slides](slides/2025-03_example.pdf)
-
-### Multimodal Learning
-- _to be added_
-
----
-
-## How this repo is organized
-
-```
-paper-reviews/
-├── README.md          # 이 파일 (인덱스)
-├── slides/            # 발표 슬라이드 PDF
-└── pptx/              # (선택) 원본 .pptx 편집본
-```
-
-**Naming convention:** `slides/YYYY-MM_short-title.pdf` — 날짜순 자동 정렬됩니다.
+| 2026-04 | ChatInject: Abusing Chat Templates for Prompt Injection in LLM Agents | ICLR 2026 | Prompt Injection | [Slides](slides/260416_chatinject.pdf) |
+| 2026-03 | Can LLMs Separate Instructions From Data? And What Do We Even Mean By That? | ICLR 2025 | Prompt Injection | [Slides](slides/260312_SEP.pdf) |
+| 2026-01 | Test-time Adaptation for Foundation Medical Segmentation Model without Parametric Updates | ICCV 2025 | Test-Time Adaptation | [Slides](slides/260105_MedTTA.pdf) |
+| 2025-12 | Large Language Diffusion Models | ICLR 2025 | Diffusion LM | [Slides](slides/251222_LLaDA.pdf) |
+| 2025-10 | COME: Test-time adaption by Conservatively Minimizing Entropy | ICLR 2025 | Test-Time Adaptation | [Slides](slides/251002_COME.pdf) |
+| 2025-08 | Beyond Entropy: Region Confidence Proxy for Wild Test-Time Adaptation | ICML 2025 | Test-Time Adaptation | [Slides](slides/250813_ReCAP.pdf) |
+| 2025-07 | PTTA: Purifying Malicious Samples for Test-Time Model Adaptation | ICML 2025 | Test-Time Adaptation | [Slides](slides/250708_PTTA.pdf) |
+| 2025-06 | One-Minute Video Generation with Test-Time Training | CVPR 2025 | Video Generation, Test-Time Training | [Slides](slides/250604_TTT-Video.pdf) |
+| 2025-04 | VMamba: Visual State Space Model | NeurIPS 2024 | Visual State Space Model | [Slides](slides/250430_VMamba.pdf) |
+| 2025-03 | Frustratingly Easy Test-Time Adaptation of Vision-Language Models | NeurIPS 2024 | Test-Time Adaptation | [Slides](slides/250319_zero.pdf) |
+| 2025-02 | Mamba: Linear-Time Sequence Modeling with Selective State Spaces | COLM 2024 | State Space Model | [Slides](slides/250210_mamba.pdf) |
+| 2025-01 | Seeing Your Speech Style: A Novel Zero-Shot Identity-Disentanglement Face-based Voice Conversion | AAAI 2025 | Voice Conversion | [Slides](slides/250106_ID-FaceVC.pdf) |
 
 ---
 
